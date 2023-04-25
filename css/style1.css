@@ -1,0 +1,36 @@
+
+.navbar-nav li
+{
+
+padding-left: 10px;
+padding-right: 10px;
+
+} 
+
+.container {
+position: relative;
+
+}
+.gap
+{
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.ab 
+{
+    padding-top: 100px;
+}
+  /* Container holding the image and the text */
+  .container-fluid {
+    position: relative;
+    text-align: center;
+    color:white;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }

@@ -1,0 +1,21 @@
+
+
+.offer
+{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    position:relative;
+    z-index: 9999;
+    color: white;
+    top: 25px;
+    right: 50px;
+    font-size: 10px;
+}
+.relative
+{
+    position: relative;
+}
